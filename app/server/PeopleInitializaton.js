@@ -6,4 +6,4 @@ if(people.find().count() === 0) {
   people.insert({ first: "Jenna", last: "Corin", age: 31, city: "Boulder Creek" });
   people.insert({ first: "Katie", last: "Kai", age: 25, city: "Palo Alto" });
   people.insert({ first: "Doris", last: "Johnson", age: 93, city: "Naples" });
-}  
+}
